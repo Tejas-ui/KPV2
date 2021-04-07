@@ -8,3 +8,15 @@ body {
 ul h1 {
     font-weight: bold;
 }
+
+a {
+    background-color: rgb(7, 8, 8);
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 2rem;
+    right: 50%;
+    margin: 70vh;
+    padding: 10px;
+  }
